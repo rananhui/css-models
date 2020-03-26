@@ -36,3 +36,8 @@ When setting the menu display, pls note it will not change to horizontal because
 [bana travel blog](https://simple-sifu.github.io/css-models/travelBlog/)
 
 [bana travel page](https://simple-sifu.github.io/css-models/travelBlog/travelPage/)
+
+
+# CSS Visual Guide
+
+[landing page](https://simple-sifu.github.io/css-models/landingPage/)
