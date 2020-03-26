@@ -2,7 +2,7 @@
 
 Using **display**(change how elements organize themselves) and **position**(to change how page organizes elements) css properties to improve the layout of the  site.
 
-# Special Notes
+Special Notes
 
 **Fixed elements** are displayed as part of the window and not part of the layout so layout will not know anything about
 it. Because of this we need to do the following:
