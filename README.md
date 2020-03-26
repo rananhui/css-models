@@ -41,3 +41,5 @@ When setting the menu display, pls note it will not change to horizontal because
 # CSS Visual Guide
 
 [landing page](https://simple-sifu.github.io/css-models/landingPage/)
+
+[soccer](https://simple-sifu.github.io/css-models/soccer/)
