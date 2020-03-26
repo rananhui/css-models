@@ -1,7 +1,9 @@
 # css-models
 
-[broadway](https://simple-sifu.github.io/css-models/broadway)
+[broadway](https://simple-sifu.github.io/css-models/broadway/)
 
-[boxmodel](https://simple-sifu.github.io/css-models/boxmodel)
+[boxmodel](https://simple-sifu.github.io/css-models/boxmodel/)
 
-[dasmoto](https://simple-sifu.github.io/css-models/dasmoto)
+[dasmoto](https://simple-sifu.github.io/css-models/dasmoto/)
+
+[website-style-guide](https://simple-sifu.github.io/css-models/website-style-guide/)
