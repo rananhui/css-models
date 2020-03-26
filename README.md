@@ -7,3 +7,5 @@
 [dasmoto](https://simple-sifu.github.io/css-models/dasmoto/)
 
 [website-style-guide](https://simple-sifu.github.io/css-models/website-style-guide/)
+
+[website-style-guide(flex version)](https://simple-sifu.github.io/css-models/website-style-guide/flex/)
