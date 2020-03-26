@@ -87,7 +87,7 @@ nav li:last-child {
     position: relative;
     height: 43.75rem;
     padding: 0 25%;
-    background: url("	https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-6/banner.png") center center no-repeat;
+    background: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-6/banner.png") center center no-repeat;
     background-size: cover;
     text-align: center;
 }
