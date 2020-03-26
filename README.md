@@ -9,3 +9,5 @@
 [website-style-guide](https://simple-sifu.github.io/css-models/website-style-guide/)
 
 [website-style-guide(flex version)](https://simple-sifu.github.io/css-models/website-style-guide/flex/)
+
+[bana travel blog](https://simple-sifu.github.io/css-models/bana-travel-blog)
