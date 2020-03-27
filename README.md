@@ -17,6 +17,20 @@
 
 [Paint Store](https://simple-sifu.github.io/css-models/paintStore/)
 
+# Box Model
+
+Box model is composed of the following:
+- height
+- width
+- padding
+- border
+- margin
+- overflow
+
+[Davie Burgers](https://simple-sifu.github.io/css-models/davieBurgers/)
+
+[boxmodel](https://simple-sifu.github.io/css-models/boxmodel/)
+
 # Display and Positioning
 
 Using **display**(change how elements organize themselves) and **position**(to change how page organizes elements) css properties to improve the layout of the  site.
@@ -36,9 +50,7 @@ When setting the menu display, pls note it will not change to horizontal because
 
 [broadway](https://simple-sifu.github.io/css-models/broadway/)
 
-# Box Model
 
-[boxmodel](https://simple-sifu.github.io/css-models/boxmodel/)
 
 # Dasmoto
 
