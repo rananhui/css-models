@@ -6,16 +6,6 @@
 
 [Paint Store](https://simple-sifu.github.io/css-models/paintStore/)
 
-# Box Model
-
-Box model is composed of the following:
-- height
-- width
-- padding
-- border
-- margin
-- overflow
-
 [Davie Burgers](https://simple-sifu.github.io/css-models/davieBurgers/)
 
 [boxmodel](https://simple-sifu.github.io/css-models/boxmodel/)
