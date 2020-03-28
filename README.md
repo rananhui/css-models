@@ -42,9 +42,9 @@
 
 [Conservation Warning](https://simple-sifu.github.io/css-models/displayPosition/conservation/)
 
-[Davie Burgers](https://simple-sifu.github.io/css-models/displayPosition/davieBurgers/)
-
 [Memory Game](https://simple-sifu.github.io/css-models/displayPosition/memory/)
+
+[Davie Burgers](https://simple-sifu.github.io/css-models/displayPosition/davieBurgers/)
 
 [Broadway Tickets](https://simple-sifu.github.io/css-models/displayPosition/broadway/)
 
