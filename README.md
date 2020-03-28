@@ -2,7 +2,6 @@
 
 [soccer](https://simple-sifu.github.io/css-models/soccer/)
 
-# CSS Colors and Typography
 
 [Paint Store](https://simple-sifu.github.io/css-models/paintStore/)
 
