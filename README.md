@@ -16,6 +16,12 @@
 
 # Visual Guide
 
+[Rise of Soccer in US](https://simple-sifu.github.io/css-models/visualRules/soccer/)
+
+[Healthy Recipes](https://simple-sifu.github.io/css-models/visualRules/healthyRecipes/)
+
+[Olivia Woodruff Portfolio](https://simple-sifu.github.io/css-models/visualRules/portfolio/)
+
 [Conservation Warning](https://simple-sifu.github.io/css-models/boxmodel/conservation)
 
 [Davie Burgers](https://simple-sifu.github.io/css-models/boxmodel/davieBurgers/)
