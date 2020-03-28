@@ -20,3 +20,11 @@ Box model is composed of the following:
 - border
 - margin
 - overflow
+
+
+# Box Model: Border-Box
+
+`* {
+  box-sizing: border-box;
+}`
+![alt text](border-box.jpg)
