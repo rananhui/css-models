@@ -24,9 +24,7 @@
 
 [Dasmoto's Arts & Craft](https://simple-sifu.github.io/css-models/visualRules/dasmoto/)
 
-[Davie Burgers](https://simple-sifu.github.io/css-models/boxmodel/davieBurgers/)
 
-[Conservation Warning](https://simple-sifu.github.io/css-models/boxmodel/conservation)
 
 
 
@@ -42,6 +40,12 @@
 [Typography](https://simple-sifu.github.io/css-models/colorsTypography/typography/)
 
 [broadway](https://simple-sifu.github.io/css-models/broadway/)
+
+# Display and Positioning
+
+[Davie Burgers](https://simple-sifu.github.io/css-models/boxmodel/davieBurgers/)
+
+[Conservation Warning](https://simple-sifu.github.io/css-models/boxmodel/conservation)
 
 
 # Website Style Guide
