@@ -26,9 +26,6 @@
 
 
 
-
-
-
 # Colors and Typography
 
 [Coffee](https://simple-sifu.github.io/css-models/colorsTypography/coffee/)
@@ -39,13 +36,17 @@
 
 [Typography](https://simple-sifu.github.io/css-models/colorsTypography/typography/)
 
-[broadway](https://simple-sifu.github.io/css-models/broadway/)
+
 
 # Display and Positioning
 
 [Davie Burgers](https://simple-sifu.github.io/css-models/boxmodel/davieBurgers/)
 
 [Conservation Warning](https://simple-sifu.github.io/css-models/boxmodel/conservation)
+
+[broadway](https://simple-sifu.github.io/css-models/broadway/)
+
+[broadway](https://simple-sifu.github.io/css-models/broadway/)
 
 
 # Website Style Guide
