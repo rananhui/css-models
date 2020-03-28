@@ -24,7 +24,9 @@ Box model is composed of the following:
 
 # Box Model: Border-Box
 
-`* {
+```
+* {
   box-sizing: border-box;
-}`
+}
+```
 ![alt text](border-box.jpg)
