@@ -1,18 +1,31 @@
-[landing page](https://simple-sifu.github.io/css-models/landingPage/)
+# HTML
 
-[soccer](https://simple-sifu.github.io/css-models/soccer/)
+[Fashion Blog](https://simple-sifu.github.io/css-models/html/fashionBlog/)
 
+[Landing Page](https://simple-sifu.github.io/css-models/html/landingPage/)
+
+# Table
+
+[Wine Festival Schedule](https://simple-sifu.github.io/css-models/tables/wineFestival/)
+
+# Selectors
+
+[Cloud](https://simple-sifu.github.io/css-models/selectors/cloud/)
+
+[Top Vacation Spots](https://simple-sifu.github.io/css-models/selectors/topVacationSpots/)
+
+# Visual Guide
+
+[Conservation Warning](https://simple-sifu.github.io/css-models/boxmodel/conservation)
+
+[Davie Burgers](https://simple-sifu.github.io/css-models/boxmodel/davieBurgers/)
+
+# Colors and Typography
 
 [Paint Store](https://simple-sifu.github.io/css-models/paintStore/)
 
-[Davie Burgers](https://simple-sifu.github.io/css-models/davieBurgers/)
-
-[boxmodel](https://simple-sifu.github.io/css-models/boxmodel/)
-
-
 
 [broadway](https://simple-sifu.github.io/css-models/broadway/)
-
 
 
 # Dasmoto
