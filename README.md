@@ -16,21 +16,33 @@
 
 # Visual Guide
 
-[Conservation Warning](https://simple-sifu.github.io/css-models/boxmodel/conservation)
+[Rise of Soccer in US](https://simple-sifu.github.io/css-models/visualRules/soccer/)
+
+[Healthy Recipes](https://simple-sifu.github.io/css-models/visualRules/healthyRecipes/)
+
+[Olivia Woodruff Portfolio](https://simple-sifu.github.io/css-models/visualRules/portfolio/)
+
+[Dasmoto's Arts & Craft](https://simple-sifu.github.io/css-models/visualRules/dasmoto/)
 
 [Davie Burgers](https://simple-sifu.github.io/css-models/boxmodel/davieBurgers/)
 
+[Conservation Warning](https://simple-sifu.github.io/css-models/boxmodel/conservation)
+
+
+
+
 # Colors and Typography
 
-[Paint Store](https://simple-sifu.github.io/css-models/paintStore/)
+[Coffee](https://simple-sifu.github.io/css-models/colorsTypography/coffee/)
 
+[Paint Store](https://simple-sifu.github.io/css-models/colorsTypography/paintStore/)
+
+[Morocco](https://simple-sifu.github.io/css-models/colorsTypography/morocco/)
+
+[Typography](https://simple-sifu.github.io/css-models/colorsTypography/typography/)
 
 [broadway](https://simple-sifu.github.io/css-models/broadway/)
 
-
-# Dasmoto
-
-[dasmoto](https://simple-sifu.github.io/css-models/dasmoto/)
 
 # Website Style Guide
 
