@@ -31,6 +31,8 @@
 
 # Colors and Typography
 
+[Coffee](https://simple-sifu.github.io/css-models/colorsTypography/coffee/)
+
 [Paint Store](https://simple-sifu.github.io/css-models/colorsTypography/paintStore/)
 
 [Morocco](https://simple-sifu.github.io/css-models/colorsTypography/morocco/)
