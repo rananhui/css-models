@@ -22,12 +22,14 @@
 
 [Olivia Woodruff Portfolio](https://simple-sifu.github.io/css-models/visualRules/portfolio/)
 
-[Conservation Warning](https://simple-sifu.github.io/css-models/boxmodel/conservation)
+[Dasmoto's Arts & Craft](https://simple-sifu.github.io/css-models/visualRules/dasmoto/)
 
 [Davie Burgers](https://simple-sifu.github.io/css-models/boxmodel/davieBurgers/)
 
+[Conservation Warning](https://simple-sifu.github.io/css-models/boxmodel/conservation)
 
-[dasmoto](https://simple-sifu.github.io/css-models/visualRules/dasmoto/)
+
+
 
 # Colors and Typography
 
