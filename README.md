@@ -40,13 +40,13 @@
 
 # Display and Positioning
 
-[Davie Burgers](https://simple-sifu.github.io/css-models/boxmodel/davieBurgers/)
+[Davie Burgers](https://simple-sifu.github.io/css-models/displayPosition/davieBurgers/)
 
-[Conservation Warning](https://simple-sifu.github.io/css-models/boxmodel/conservation)
+[Conservation Warning](https://simple-sifu.github.io/css-models/displayPosition/conservation)
 
-[broadway](https://simple-sifu.github.io/css-models/broadway/)
+[Broadway Tickets](https://simple-sifu.github.io/css-models/displayPosition/broadway/)
 
-[broadway](https://simple-sifu.github.io/css-models/broadway/)
+[Memory Game](https://simple-sifu.github.io/css-models/displayPosition/memory/)
 
 
 # Website Style Guide
