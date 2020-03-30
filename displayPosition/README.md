@@ -52,3 +52,15 @@ The height and width in the border box will adjust to padding/border size and st
 }
 ```
 ![alt text](border-box.jpg)
+
+
+# Display and Positioning
+
+Notice the block-level elements in the image above take up their own line of space and therefore don’t overlap each other. In the browser to the right you can see block-level elements also consistently appear on the left side of the browser. This is the default position for block-level elements.
+
+The default position of an element can be changed by setting its position property. The position property can take one of four values:
+
+- static - the default value (it does not need to be specified)
+- relative
+- absolute
+- fixed
