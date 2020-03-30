@@ -56,6 +56,18 @@ The height and width in the border box will adjust to padding/border size and st
 
 # Display and Positioning
 
+A browser will render the elements of an HTML document that has no CSS from left to right, top to bottom, in the same order as they exist in the document. This is called the flow of elements in HTML.
+
+CSS includes properties that change how a browser positions elements. These properties specify where an element is located on a page, if the element can share lines with other elements, and other related attributes.
+
+In this lesson, you will learn five properties for adjusting the position of HTML elements in the browser:
+
+- position
+- display
+- z-index
+- float
+- clear
+
 Notice the block-level elements in the image above take up their own line of space and therefore don’t overlap each other. In the browser to the right you can see block-level elements also consistently appear on the left side of the browser. This is the default position for block-level elements.
 
 The default position of an element can be changed by setting its position property. The position property can take one of four values:
