@@ -51,17 +51,15 @@
 [Broadway Tickets](https://simple-sifu.github.io/css-models/displayPosition/broadway/)
 
 
-# Website Style Guide
-
-[website-style-guide](https://simple-sifu.github.io/css-models/website-style-guide/)
-
-[website-style-guide(flex version)](https://simple-sifu.github.io/css-models/website-style-guide/flex/)
-
 # Responsive
 
-[bana travel blog](https://simple-sifu.github.io/css-models/travelBlog/)
+[bana travel blog](https://simple-sifu.github.io/css-models/responsive/travelBlog/)
 
-[bana travel page](https://simple-sifu.github.io/css-models/travelBlog/travelPage/)
+[bana travel page](https://simple-sifu.github.io/css-models/responsive/travelBlog/travelPage/)
+
+[website-style-guide](https://simple-sifu.github.io/css-models/responsive/website-style-guide/)
+
+[website-style-guide(flex version)](https://simple-sifu.github.io/css-models/responsive/website-style-guide/flex/)
 
 
 
