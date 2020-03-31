@@ -62,4 +62,11 @@
 [website-style-guide(flex version)](https://simple-sifu.github.io/css-models/responsive/website-style-guide/flex/)
 
 
+# FlexBox
+
+[Bakery](https://simple-sifu.github.io/css-models/flexbox/bakery/)
+
+[Menu Items](https://simple-sifu.github.io/css-models/flexbox/menuItems/)
+
+
 
