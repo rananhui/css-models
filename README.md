@@ -71,9 +71,9 @@
 [Bootstrap clone](https://simple-sifu.github.io/precourse-part-2/bootstrap-clone/)
 
 
-# Javascript
+# Javascript - Query-selectors
 
-[Shopping List](https://simple-sifu.github.io/precourse-part-3/instagram-clone/client/)
+[Shopping List](https://simple-sifu.github.io/css-models/javascript/helloWorld/)
 
 
 
