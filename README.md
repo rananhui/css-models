@@ -73,7 +73,7 @@
 
 # Javascript
 
-[Shopping List](https://simple-sifu.github.io/precourse-part-3/client/shopping.html/)
+[Shopping List](https://simple-sifu.github.io/precourse-part-3/instagram-clone/client/shopping.html/)
 
 
 
