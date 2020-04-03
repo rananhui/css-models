@@ -68,7 +68,12 @@
 
 [Menu Items](https://simple-sifu.github.io/css-models/flexbox/menuItems/)
 
-[bootstrap clone](https://simple-sifu.github.io/precourse-part-2/bootstrap-clone/)
+[Bootstrap clone](https://simple-sifu.github.io/precourse-part-2/bootstrap-clone/)
+
+
+# Javascript
+
+[Shopping List](https://simple-sifu.github.io/precourse-part-3/client/sample.html/)
 
 
 
