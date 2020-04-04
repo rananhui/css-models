@@ -2,22 +2,10 @@
 <html>
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-  $("button").click(function(){
-    $.get("https://image-server-codesmith.firebaseapp.com/images/", function(data, status){
-    //   alert("Data: " + data + "\nStatus: " + status);
-        console.log(`data[0] = ${data[0]}`);
-        console.log(`data[1] = ${data[1]}`);
-        $('p').append(data);
-    });
-  });
-});
-</script>
 </head>
 <body>
-
-<button>Send an HTTP GET request to a page and get the result back</button>
-<p></p>
+    <button>Send an HTTP GET request to a page and get the result back</button>
+    <script type="text/javascript" src="script.js"></script>
+    <p></p>
 </body>
 </html>
