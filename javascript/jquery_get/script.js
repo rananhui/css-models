@@ -11,6 +11,6 @@ $(document).ready(function(){
 
 
 const getListOfData = (data) => {
-    const urls = data.map((currVal) => `<li>${currVal}</li>`).join("\n");
-    return `<ul>${urls}</ul>`;
+  const urls = data.map((currVal) => `<li>${currVal}</li>`).filter(url => url.includes("https:")).join("\n");
+  return `<ul>${urls}</ul>`;
 };
