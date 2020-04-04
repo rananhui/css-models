@@ -7,6 +7,7 @@ $(document).ready(function(){
   $("button").click(function(){
     $.get("https://image-server-codesmith.firebaseapp.com/images/", function(data, status){
     //   alert("Data: " + data + "\nStatus: " + status);
+        console.log(`data = ${data}`);
         $('p').append(data);
     });
   });
