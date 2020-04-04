@@ -5,16 +5,18 @@ var body = document.getElementById("gradient");
 
 console.log(body);
 
-color1.addEventListener("input", function(){
+function setGradient(){
     body.style.background = 
             "linear-gradient(to right, " 
             + color1.value 
             + ", " + 
             color2.value 
             + ")";
-})
+    css.textContent = body.style.background + ";";
+}
 
-color2.addEventListener("input", function(){
-    console.log(color2.value);
-})
+
+color1.addEventListener("input", setGradient);
+
+color2.addEventListener("input", setGradient);
 
