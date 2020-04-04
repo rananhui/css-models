@@ -81,3 +81,4 @@
 
 [ajax via jquery](https://simple-sifu.github.io/css-models/javascript/jquery/)
 
+[ajax get via jquery](https://simple-sifu.github.io/css-models/javascript/jquery_get/)
