@@ -10,7 +10,7 @@
         $(document).ready(function () {
 			
 		 $('#ajaxBtn').click(function(){
-			$.ajax('https://image-server-codesmith.firebaseapp.com/images',   // request url
+			$.ajax("https://image-server-codesmith.firebaseapp.com/images/",   // request url
 			{            
 				success: function (data, status, xhr) {    // success callback function
 						$('p').append(data);
