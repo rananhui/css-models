@@ -75,5 +75,7 @@
 
 [Shopping List](https://simple-sifu.github.io/css-models/javascript/helloWorld/)
 
+[Color Gradient](https://simple-sifu.github.io/css-models/javascript/colors/)
+
 
 
