@@ -4,13 +4,15 @@ $(document).ready(function(){
     //   alert("Data: " + data + "\nStatus: " + status);
         console.log(`data[0] = ${data[0]}`);
         console.log(`data[1] = ${data[1]}`);
-        $('p').append(getListOfData(data));
+        $('p').append(getListOfData(data).filterHttp());
     });
   });
 });
 
 
 const getListOfData = (data) => {
-    const urls = data.map((currVal) => `<li>${currVal}</li>`).join("\n");
+    const urls = data.filter((currVal) => `<li>${currVal}</li>`).join("\n");
     return `<ul>${urls}</ul>`;
 };
+
+const filterHttp = url => url.includes("http:");
