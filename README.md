@@ -83,4 +83,4 @@
 
 [ajax get via jquery](https://simple-sifu.github.io/css-models/javascript/jquery_get/)
 
-[Instagram clone](https://simple-sifu.github.io/precourse-part-3/instagram-clone/)
+[Instagram clone](https://simple-sifu.github.io/precourse-part-3/client/instagram-clone/)
