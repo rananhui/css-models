@@ -79,5 +79,5 @@
 
 [Promises](https://simple-sifu.github.io/css-models/javascript/promises/)
 
-
+[ajax via jquery](https://simple-sifu.github.io/css-models/javascript/jquery/)
 
