@@ -50,6 +50,8 @@
 
 [Broadway Tickets](https://simple-sifu.github.io/css-models/displayPosition/broadway/)
 
+[Google Clone](https://simple-sifu.github.io/precourse-part-2/google-clone/)
+
 
 # Responsive
 
