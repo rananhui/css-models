@@ -17,7 +17,7 @@ function createListElement(){
     var li = document.createElement("li");
     li.appendChild(document.createTextNode(input.value));
     ul.appendChild(li);
-    input.value = "";
+   // input.value = "";
 }
 
 
