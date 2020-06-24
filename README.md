@@ -77,6 +77,8 @@
 
 [Shopping List](https://simple-sifu.github.io/css-models/javascript/helloWorld/)
 
+[Shopping List with Repeated Items](https://simple-sifu.github.io/css-models/javascript/repeatList/)
+
 [Color Gradient](https://simple-sifu.github.io/css-models/javascript/colors/)
 
 [Promises](https://simple-sifu.github.io/css-models/javascript/promises/)
